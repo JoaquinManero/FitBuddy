@@ -1,3 +1,7 @@
+Fitbuddy se trata de una aplicación web la cual ha sido desarrollado para finalizar la carrera de Ingeniería en Sistemas de Información, y que en un futuro será salida al mercado. 
+Fitbuddy is a web application which has been developed to finalize the career of Information Systems Engineering, and in the future will be released to the market. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Detectamos que en la vida diaria del mundo del fitness, se presentan dos grandes problemáticas:
 Los entrenadores son muy dependientes de su trabajo en situación de empleo formal y de que les vaya bien en el mismo para tener un buen desarrollo profesional autónomo.
 Por parte de los alumnos es difícil encontrar un entrenador que cumpla con los requisitos necesarios para el entrenamiento que cada uno desea. Y a su vez tener un seguimiento constante para evaluar el progreso.
